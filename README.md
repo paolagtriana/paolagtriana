@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋 I'm Paola
 
-<!--
-**paolagtriana/paolagtriana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 I am a Research Support Technician
+- 🔎 I work on data collection & analysis 
+- 🌍 I'm based in Barcelona (Spain)
+- 💬 Contact me at paola.gonzalez@upf.edu
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">You can find me on:</p>
+<p align="center">
+  <a href="http://twitter.com/paolagtriana">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter link"/>
+  </a>
+  <a href="https://www.linkedin.com/in/paolagtriana">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin link"/>
+  </a>
+</p>
