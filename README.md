@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 👨‍💻 Research Support Technician
-- 🔎 Data collection & processing 
+- 🔎 Working on data collection & processing 
 - 🌍 Based in Barcelona (Spain)
 - 💬 Contact me at paola.gonzalez@upf.edu
 
